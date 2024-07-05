@@ -1,8 +1,8 @@
 - 👋 Hi! I’m @Daniel aka dnoiro
 - 👀 I’m interested in money(who isn't?😇)
 - 🌱 I’m currently learning Electrical Engineering
-- 📫 How to reach me: dpachec@g.clemson.edu
-- 😄 Pronouns: ?
+- 📫 How to reach me: danielpacheco@ieee.org
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love programming!(so generic)
 
 <!---
