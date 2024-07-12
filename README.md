@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Electrical Engineering
 - 📫 How to reach me: danielpacheco@ieee.org
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love programming!(so generic)
+- ⚡ Fun fact: I own a Jeep 🦆
 
 <!---
 dnoiro/dnoiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
