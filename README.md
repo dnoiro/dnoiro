@@ -8,6 +8,8 @@
 
 - ⚡ Fun fact: I own a Jeep 🦆
 
+- 🎶 Favorite lyric: "Las ganas de superarme Por las noches me perturban"-peso pluma
+
 
 <!---
 dnoiro/dnoiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
