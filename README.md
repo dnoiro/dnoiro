@@ -10,6 +10,8 @@
 
 - 🎶 Favorite lyric: "Las ganas de superarme Por las noches me perturban"-peso pluma
 
+- <img src="https://leetcode-badge-showcase.vercel.app/api?username={dnorio}" alt="LeetCode Badges"/>
+
 
 <!---
 dnoiro/dnoiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
