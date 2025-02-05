@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact: I own a Jeep 🦆
 
-- 🎶 Favorite lyric: "Las ganas de superarme Por las noches me perturban"-peso pluma
+- 🎶 Current favorite Song: Watch - Billie Eilish
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=dnoiro&theme=light" alt="LeetCode Badges"/>
 
