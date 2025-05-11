@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact: I own a Jeep 🦆
 
-- 🎶 Current favorite Song: Watch - Billie Eilish
+- 🎶 Current favorite Song: Lilac Wine - Jeff Buckley
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=dnoiro&theme=light" alt="LeetCode Badges"/>
 
