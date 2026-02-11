@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning Electrical Engineering
 
-- 📫 How to reach me: danielpacheco@ieee.org
-
 - ⚡ Fun fact: I own a Jeep 🦆
 
 - 🎶 Current favorite Song: Lilac Wine - Jeff Buckley
