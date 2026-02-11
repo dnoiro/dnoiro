@@ -1,8 +1,8 @@
 - 👋 Hi! I’m @Daniel aka dnoiro
 
-- 👀 I’m interested in money(who isn't?😇)
+- 👀 I’m interested in hardware desing
 
-- 🌱 I’m currently learning Electrical Engineering
+- 🌱 I recently graduated with a bachelors in electrical engineering
 
 - ⚡ Fun fact: I own a Jeep 🦆
 
